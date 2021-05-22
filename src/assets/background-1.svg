@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="994" viewBox="0 0 1921 994">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.777" x2="0.151" y2="-0.014" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#322324"/>
+      <stop offset="1" stop-color="#242424"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1082" data-name="Rectangle 1082" width="1920" height="993" transform="translate(229 4303.772)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)" style="mix-blend-mode: hue;isolation: isolate"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1083" data-name="Rectangle 1083" width="1920" height="994" transform="translate(0 -83)" fill="#483333" style="mix-blend-mode: hue;isolation: isolate"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="1.037" y1="0.279" x2="0.163" y2="1.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#382728"/>
+      <stop offset="1" stop-color="#242424"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1491" data-name="Group 1491" transform="translate(-228 -4302.772)">
+    <rect id="HG" width="1921" height="992" transform="translate(228 4303.772)" fill="#110404"/>
+    <g id="Rectangle_1081" data-name="Rectangle 1081" transform="translate(229 4303.772)" fill="#ff5c63" stroke="#707070" stroke-width="1" style="mix-blend-mode: hue;isolation: isolate">
+      <rect width="1920" height="993" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="992" fill="none"/>
+    </g>
+    <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+      <path id="Path_9313" data-name="Path 9313" d="M1367.983,0H0V69.769L1943,1259.474V352.085Z" transform="translate(205 4303.772)" opacity="0.5" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(229 4385.772)" clip-path="url(#clip-path-2)">
+      <path id="Path_9314" data-name="Path 9314" d="M1561.7,1259.475H0v-69.769L2218.146,0V907.389Z" transform="translate(-299.146 -348.474)" opacity="0.5" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>
