@@ -128,6 +128,178 @@
                 </div>
             </div>
         </div>
+
+<!--        Plans-->
+        <div class="row vh-100 d-flex justify-content-center align-items-center">
+            <div class="col-12 text-center">
+                <span class="text-white">Chose The Best Fit</span>
+                <h4 class="text-white">Protection Plans</h4>
+            </div>
+            <div class="col-12 lg-slick">
+                <div class="container">
+                    <div class="row responsive">
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 px-3 col-lg-4">
+                            <div class="card shadow-sm bg-danger rounded-3 d-flex justify-content-center align-items-center py-5 cus-card">
+                                <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
+                                    <span class="text-white mb-2 h4 fw-light">Cellural</span>
+                                    <span class="text-white mb-2">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                                    <span class="text-white mb-2 h4">$ 500</span>
+                                    <span class="text-white mb-2">Per Month</span>
+                                </div>
+                                <div class="mb-5">
+                                    <ul class="list-group">
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                        <li class="list-group-item bg-transparent border-0 text-white"><i class="fas fa-ribbon"></i> Self monitoring via app</li>
+                                    </ul>
+                                </div>
+                                <button class="btn alert-danger rounded-pill border-white">Choose Plan</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
     </div>
 </template>
 
@@ -136,8 +308,58 @@
     import HomeContent from "../components/HomeContent";
     export default {
         name: "Home",
-        components: {HomeContent, Navbar}
+        components: {HomeContent, Navbar},
+        mounted() {
+            // eslint-disable-next-line no-undef
+            $('.responsive').slick({
+                dots: true,
+                infinite: true,
+                speed: 300,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 3000,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 3,
+                            infinite: true,
+                            dots: true
+                        }
+                    },
+                    {
+                        breakpoint: 800,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2,
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
+                            fade: true,
+                            cssEase: 'linear'
+                        }
+                    }
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            });
+        }
     }
+
 </script>
 
 <style scoped>
@@ -167,9 +389,36 @@
         background-size: cover;
         background-repeat: no-repeat;
     }
+    .cus-card{
+        border-radius: 1.3rem!important;
+        transition: 0.5s;
+    }
+    .cus-card:hover{
+        transform: scale(0.98);
+    }
+
+    .slick-dots li button:before {
+
+    }
+    .slick-dots li{
+        width: 10px!important;
+        height: 10px!important;
+        background-color: transparent!important;
+        border: 1px solid red!important;
+        border-radius: 50%!important;
+    }
 
     /*mobile*/
     @media screen and (max-width: 576px) {
+        /*slick*/
+        .slick-prev {
+            left: -10px!important;
+        }
+        .slick-next {
+            right: -10px!important;
+        }
+
+
         .home{
             width: 80%!important;
         }

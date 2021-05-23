@@ -12,6 +12,8 @@
     "bootstrap": "^5.0.1",
     "core-js": "^3.6.5",
     "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "slick-carousel": "^1.8.1",
     "vue": "^2.6.11",
     "vue-router": "^3.5.1"
   },
