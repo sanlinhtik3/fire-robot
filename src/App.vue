@@ -20,6 +20,7 @@ export default {
 
   *{
     font-family: Poppins;
+    scroll-behavior: smooth;
   }
 
 </style>

@@ -32,13 +32,11 @@
 
         <div class="position-absolute bottom-0 end-0">
             <div class="_scroll">
-                <a href="" class="p-1 p-md-3 text-white text-decoration-none small"><i class="fas fa-minus"></i><i class="fas fa-minus pe-2"></i> Scroll</a>
+                <a href="#down" class="p-1 p-md-3 text-white text-decoration-none small"><i class="fas fa-minus"></i><i class="fas fa-minus pe-2"></i> Scroll</a>
             </div>
         </div>
 
-
-
-        <div class="row vh-100 bg-white justify-content-center align-items-center">
+        <div class="row vh-100 bg-white justify-content-center align-items-center" id="down">
             <div class="col-12">
                 <div class="container">
                     <div class="row">
@@ -49,7 +47,7 @@
                                 Alarm System
                             </h1>
                         </div>
-                        <div class="col-12 col-md-8 mb-2 mb-md-3">
+                        <div class="col-12 col-md-7 mb-2 mb-md-3">
                             <div class="card bg-dark text-white">
                                 <img src="../assets/img-13.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
@@ -58,7 +56,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-4 mb-2 mb-md-3">
+                        <div class="col-12 col-md-5 mb-2 mb-md-3">
                             <div class="card bg-dark text-white">
                                 <img src="../assets/img-11.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
@@ -67,7 +65,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-4 mb-2 mb-md-3">
+                        <div class="col-12 col-md-5 mb-2 mb-md-3">
                             <div class="card bg-dark text-white">
                                 <img src="../assets/img-12.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
@@ -76,7 +74,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-8 mb-2 mb-md-3">
+                        <div class="col-12 col-md-7 mb-2 mb-md-3">
                             <div class="card bg-dark text-white">
                                 <img src="../assets/img-14.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
@@ -90,7 +88,7 @@
             </div>
         </div>
 
-        <div class="row vh-100 bg-white justify-content-center align-items-center background-1">
+        <div class="row vh-100 border-0 bg-white justify-content-center align-items-center background-1">
             <div class="col-12">
                 <div class="container">
                     <div class="row">
@@ -129,11 +127,11 @@
             </div>
         </div>
 
-<!--        Plans-->
-        <div class="row vh-100 d-flex justify-content-center align-items-center">
-            <div class="col-12 text-center">
-                <span class="text-white">Chose The Best Fit</span>
-                <h4 class="text-white">Protection Plans</h4>
+        <!--Plans start-->
+        <div class="row vh-100 border-0 bg-white bg-long-a">
+            <div class="col-12 text-center mt-4 mt-lg-5">
+                <span class="text-black-50 mb-5">Chose The Best Fit</span>
+                <h4 class="text-dark">Protection Plans</h4>
             </div>
             <div class="col-12 lg-slick">
                 <div class="container">
@@ -169,14 +167,14 @@
                                 <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
                                     <span class="text-white mb-2 h4 fw-light">Cellural</span>
                                     <span class="text-white mb-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </span>
-                                    <span class="text-white mb-2 h4">$ 500</span>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 600</span>
                                     <span class="text-white mb-2">Per Month</span>
                                 </div>
                                 <div class="mb-5">
@@ -195,14 +193,14 @@
                                 <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
                                     <span class="text-white mb-2 h4 fw-light">Cellural</span>
                                     <span class="text-white mb-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </span>
-                                    <span class="text-white mb-2 h4">$ 500</span>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 700</span>
                                     <span class="text-white mb-2">Per Month</span>
                                 </div>
                                 <div class="mb-5">
@@ -221,14 +219,14 @@
                                 <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
                                     <span class="text-white mb-2 h4 fw-light">Cellural</span>
                                     <span class="text-white mb-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </span>
-                                    <span class="text-white mb-2 h4">$ 500</span>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 800</span>
                                     <span class="text-white mb-2">Per Month</span>
                                 </div>
                                 <div class="mb-5">
@@ -247,14 +245,14 @@
                                 <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
                                     <span class="text-white mb-2 h4 fw-light">Cellural</span>
                                     <span class="text-white mb-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </span>
-                                    <span class="text-white mb-2 h4">$ 500</span>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 900</span>
                                     <span class="text-white mb-2">Per Month</span>
                                 </div>
                                 <div class="mb-5">
@@ -273,14 +271,14 @@
                                 <div class="d-flex flex-column justify-content-center align-items-center mb-4 pt-5">
                                     <span class="text-white mb-2 h4 fw-light">Cellural</span>
                                     <span class="text-white mb-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </span>
-                                    <span class="text-white mb-2 h4">$ 500</span>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </span>
+                                    <span class="text-white mb-2 h4">$ 1000</span>
                                     <span class="text-white mb-2">Per Month</span>
                                 </div>
                                 <div class="mb-5">
@@ -298,6 +296,94 @@
                 </div>
             </div>
         </div>
+        <!--Plans end-->
+
+        <!--Control From Everywhere start-->
+        <div class="row bg-white bg-long-b">
+            <div class="col-12">
+                <div class="container">
+                    <div class="row vh-100 justify-content-center align-items-center">
+                        <div class="col-12 col-md-6">
+                            <div class="card shadow-sm border-0 p-4" style="border-radius: 15px">
+                                <span>Freedom</span>
+                                <h1 class="py-3 fw-bold">Control From <br> Anywhere</h1>
+                                <p class="text-black-50">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dolorem hic illum incidunt magni, maiores molestias natus nisi, nostrum obcaecati odit sed sequi sint veritatis vero! Accusantium cumque delectus quod!
+                                </p>
+                                <div class="">
+                                    <button class="btn btn-danger rounded-pill shadow-sm">Protect Your Home</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div class="">
+                                <img src="../assets/undraw_Dev_focus_re_6iwt.svg" class="w-100" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Control From Everywhere end-->
+
+
+
+        <!-- ************ This is Footer start *********** -->
+        <div class="row bg-light py-5">
+            <div class="col-12">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 col-md-12 col-lg-4 mb-3 mb-md-3 mb-lg-0">
+                            <div class="">
+                                <span class="fs-4 fw-bold">Logo</span>
+                                <p class="fs-sm mb-0 mb-md-3 text-muted">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque nemo, officiis. Ad adipisci eaque illo magni, omnis quaerat quas ullam!
+                                </p>
+                                <div class="">
+                                    <a href="" class="text-decoration-none text-dark p-2 ps-0"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="" class="text-decoration-none text-dark p-2"><i class="fab fa-github"></i></a>
+                                    <a href="" class="text-decoration-none text-dark p-2"><i class="fab fa-twitter"></i></a>
+                                    <a href="" class="text-decoration-none text-dark p-2"><i class="fab fa-telegram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-md-4 col-lg-2">
+                            <div class="">
+                                <ul class="list-group">
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Home</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Feature</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Plans</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Media</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Blog</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-4 col-md-4 col-lg-2">
+                            <div class="">
+                                <ul class="list-group">
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Content Us</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Teams of Servies</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Privacy</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">Careers</li>
+                                    <li class="list-group-item border-0 fs-sm ps-0 bg-transparent">FAQ's</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-4 col-md-4 col-lg-4">
+                            <div class="">
+                                <span class="fw-bold">Subscribe</span>
+                                <p class="fs-sm">
+                                    The quick brown fox jumps over the lazy dog.
+                                </p>
+                                <span class="text-muted fs-sm">Copyright 2020</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ************ This is Footer end *********** -->
+
 
 
     </div>
@@ -363,6 +449,18 @@
 </script>
 
 <style scoped>
+    .bg-long-a{
+        background-image: url("../assets/bglong.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*background-position: right;*/
+    }
+    .bg-long-b{
+        background-image: url("../assets/bglong.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
     .bg{
         background-image: url("../assets/Group.svg");
         background-position: 800px;
@@ -443,6 +541,18 @@
         }
         .img-sm-2{
             width: 150px;
+        }
+        .bg-long-a{
+            background-image: url("../assets/bglong.png");
+            background-repeat: no-repeat;
+            background-size: 1000px;
+            background-position: right 100px;
+        }
+        .bg-long-b{
+            background-image: url("../assets/bglong.png");
+            background-repeat: no-repeat;
+            background-size: 1000px;
+            background-position: left;
         }
     }
 
