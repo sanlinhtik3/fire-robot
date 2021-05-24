@@ -541,38 +541,8 @@
         transform: scale(0.98);
     }
 
-    /*slick-dots*/
-    .slick-dots{
-        display: flex!important;
-        justify-content: center!important;
-        align-items: center!important;
-    }
-    .slick-dots li{
-        width: 10px!important;
-        height: 10px!important;
-        background-color: transparent!important;
-        border: 2px solid red!important;
-        border-radius: 50%!important;
-    }
-    .slick-dots li.slick-active{
-        width: 15px!important;
-        height: 15px!important;
-        background-color: red!important;
-    }
-
-
-
     /*mobile*/
     @media screen and (max-width: 576px) {
-        /*slick-dot*/
-        .slick-prev {
-            left: -10px!important;
-        }
-        .slick-next {
-            right: -10px!important;
-        }
-
-
         .home{
             width: 80%!important;
         }
