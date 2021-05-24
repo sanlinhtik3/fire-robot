@@ -5,8 +5,10 @@
                 <div class="row vh-100 justify-content-center align-items-center">
                     <div class="col-12 col-md-6">
                         <div class="card shadow-sm border-0 p-4" style="border-radius: 15px">
-                            <span>Freedom</span>
-                            <h1 class="py-3 fw-bold">Control From <br> Anywhere</h1>
+                            <div class="mb-3">
+                                <span>Freedom</span>
+                                <h1 class="fw-bold fw-h-m">Control From <br class="d-none d-md-block"> Anywhere</h1>
+                            </div>
                             <p class="text-black-50">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dolorem hic illum incidunt magni, maiores molestias natus nisi, nostrum obcaecati odit sed sequi sint veritatis vero! Accusantium cumque delectus quod!
                             </p>

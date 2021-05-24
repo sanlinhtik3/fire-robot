@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-12 col-md-12 col-lg-6 mb-md-4 mb-5 mb-md-5 mb-md-0">
                         <span class="text-white-50 fs-small">How Things Work!</span>
-                        <h1 class="text-white">
-                            Home Automation <br> and Integrations
+                        <h1 class="text-white fw-h-m">
+                            Home Automation <br class="d-none d-md-block"> and Integrations
                         </h1>
                         <p class="text-white-50 fs-sm">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam at autem blanditiis cum ducimus esse est et explicabo illo in, iusto libero natus optio pariatur possimus sint sit veniam voluptates!
