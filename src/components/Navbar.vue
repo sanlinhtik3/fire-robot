@@ -8,8 +8,11 @@
                             <nav class="navbar navbar-expand-lg navbar-dark">
                                 <div class="container-fluid">
                                     <a class="navbar-brand" href="#">Navbar</a>
-                                    <button class="navbar-toggler bb" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                        <i class="fas fa-bars menu-icon"></i>
+                                    <button class="navbar-toggler bb toggle-btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                        <div class="icon-bar1"></div>
+                                        <div class="icon-bar2"></div>
+                                        <div class="icon-bar3"></div>
+<!--                                        <i class="fas fa-bars menu-icon"></i>-->
                                     </button>
                                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -50,24 +53,13 @@
     export default {
         name: "Navbar",
         mounted() {
+            // Rotate Icons class added by jQuery
             // eslint-disable-next-line no-undef
-            $(document).ready(function () {
+            $(document).ready(function(){
                 // eslint-disable-next-line no-undef
-                $(".navbar-toggler").click(function () {
-                    // eslint-disable-next-line no-unused-vars,no-undef
-                    setTimeout(function () {
-                        // eslint-disable-next-line no-undef
-                        let result = $(".navbar-collapse").hasClass("show");
-                        console.log(result);
-                        if(result){
-                            // eslint-disable-next-line no-undef
-                            $(".menu-icon").removeClass("fa-bars").addClass("fa-times");
-                        }else {
-                            // eslint-disable-next-line no-undef
-                            $(".menu-icon").removeClass("fa-times").addClass("fa-bars");
-                        }
-                    },400)
-
+                $(".toggle-btn").click(function(){
+                    // eslint-disable-next-line no-undef
+                    $(this).toggleClass("rotate-icons");
                 });
             });
         }
@@ -75,28 +67,35 @@
 </script>
 
 <style scoped>
-
-    .menu-icon{
-        transition: 0.4s!important;
-    }
     .navbar-toggler:focus {
         text-decoration: none;
         outline: 0;
         box-shadow: 0 0 0 0;
         border: 0;
     }
-    .navbar-toggler{
-        animation: dog 0.5s;
+    /*rotate icon*/
+    .toggle-btn {
+        cursor: pointer;
+        background: none;
+        float: right;
+        border: none;
     }
-    .collapsed{
-        animation: cat 0.5s;
+    .icon-bar1, .icon-bar2, .icon-bar3 {
+        background-color: #fff;
+        margin: 8px 0;
+        width: 30px;
+        height: 2px;
+        transition: 0.6s;
     }
-    @keyframes cat {
-        from{transform: rotate(600deg)}
-        to{transform: rotate(0deg)}
+    .rotate-icons .icon-bar1 {
+        transform: rotate(-45deg) translate(-9px, 6px);
+        -webkit-transform: rotate(-45deg) translate(-9px, 6px);
     }
-    @keyframes dog {
-        from{transform: rotate(0deg)}
-        to{transform: rotate(600deg)}
+    .rotate-icons .icon-bar2 {
+        opacity: 0;
+    }
+    .rotate-icons .icon-bar3 {
+        transform: rotate(45deg) translate(-8px, -8px);
+        -webkit-transform: rotate(45deg) translate(-8px, -8px);
     }
 </style>
